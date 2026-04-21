@@ -1,0 +1,7 @@
+name: claude-starter
+goals:
+  - Minimize token usage
+  - Constrain reasoning to project context
+preferences:
+  diff_only: true
+  verbosity: low
