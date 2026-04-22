@@ -1,0 +1,9 @@
+# User Stories
+
+1. As a manager, I want a dashboard that shows daily sales KPIs, so I can mentor employees on ways to improve.
+2. As an hr admin, I want to filter employee training results by date range, so I can provide employees with certificates of completion.
+3. As an accounts receivable user, I want visual AR charts for trends so I can track progress and identify accounts that need special focus.
+
+Constraints:
+- Web-based dashboard
+- Desktop-first design
